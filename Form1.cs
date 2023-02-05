@@ -26,6 +26,7 @@ namespace SIOOF3
 
         IFirebaseConfig config = new FirebaseConfig
         {
+            //Add your firebase path and token here!
             AuthSecret = "Protected",
             BasePath = "Protected"
         };
