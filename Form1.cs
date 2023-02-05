@@ -26,8 +26,8 @@ namespace SIOOF3
 
         IFirebaseConfig config = new FirebaseConfig
         {
-            AuthSecret = "u8t2EbIOxgPzi0FJKNQmiRUj4kUUSpoepGzRVxJK",
-            BasePath = "https://sioof-dd93e-default-rtdb.firebaseio.com/"
+            AuthSecret = "Protected",
+            BasePath = "Protected"
         };
 
         IFirebaseClient client;
@@ -49,7 +49,7 @@ namespace SIOOF3
             }
             else
             {
-                label7.Text = "Não conectado";
+                label7.Text = "NÃ£o conectado";
                 label7.ForeColor = Color.Red;
             }
             MyMethod();
