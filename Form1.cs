@@ -27,8 +27,8 @@ namespace SIOOF3
         IFirebaseConfig config = new FirebaseConfig
         {
             //Add your firebase path and token here!
-            AuthSecret = "u8t2EbIOxgPzi0FJKNQmiRUj4kUUSpoepGzRVxJK",
-            BasePath = "https://sioof-dd93e-default-rtdb.firebaseio.com/"
+            AuthSecret = "",
+            BasePath = ""
         };
 
         IFirebaseClient client;
