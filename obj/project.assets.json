@@ -873,24 +873,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ricardo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Ricardo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ricardo\\source\\repos\\SIOOF3\\SIOOF3\\SIOOF3.csproj",
+      "projectUniqueName": "D:\\Documentos\\GitHub\\SIOOF3\\SIOOF3.csproj",
       "projectName": "SIOOF3",
-      "projectPath": "C:\\Users\\Ricardo\\source\\repos\\SIOOF3\\SIOOF3\\SIOOF3.csproj",
+      "projectPath": "D:\\Documentos\\GitHub\\SIOOF3\\SIOOF3.csproj",
       "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ricardo\\source\\repos\\SIOOF3\\SIOOF3\\obj\\",
+      "outputPath": "D:\\Documentos\\GitHub\\SIOOF3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -948,7 +943,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   },
